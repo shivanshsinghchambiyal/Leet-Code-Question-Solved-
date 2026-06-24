@@ -15,6 +15,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
