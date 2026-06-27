@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
