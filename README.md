@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
