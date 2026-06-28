@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -68,4 +71,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
