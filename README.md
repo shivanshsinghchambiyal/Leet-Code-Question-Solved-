@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0063-unique-paths-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0063-unique-paths-ii) |
 ## Greedy
 |  |
 | ------- |
