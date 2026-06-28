@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
