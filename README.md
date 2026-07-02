@@ -28,6 +28,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0051-n-queens) |
 ## Matrix
 |  |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0063-unique-paths-ii) |
@@ -58,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
 ## Linked List
