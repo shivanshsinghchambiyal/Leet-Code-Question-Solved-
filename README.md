@@ -27,6 +27,7 @@
 | [0064-minimum-path-sum](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Memoization
 |  |
 | ------- |
