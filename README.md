@@ -26,12 +26,14 @@
 | [0063-unique-paths-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
