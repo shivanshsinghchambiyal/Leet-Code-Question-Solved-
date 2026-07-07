@@ -49,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
@@ -77,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0061-rotate-list) |
 ## Combinatorics
 |  |
