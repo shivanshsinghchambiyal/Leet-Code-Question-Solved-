@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0066-plus-one) |
@@ -70,6 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0067-add-binary) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
