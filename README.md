@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0063-unique-paths-ii) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
