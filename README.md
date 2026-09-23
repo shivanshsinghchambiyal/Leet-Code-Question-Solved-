@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0055-jump-game) |
@@ -108,6 +109,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0013-roman-to-integer) |
