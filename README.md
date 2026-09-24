@@ -33,6 +33,7 @@
 | [0078-subsets](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -119,6 +121,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -132,4 +135,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivanshsinghchambiyal/Leet-Code-Question-Solved-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
